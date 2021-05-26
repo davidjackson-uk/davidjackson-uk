@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @davidjackson-uk, a PhD student based at Manchester Metropolita University in the UK.
-- 👀 I’m interested in coding for academic writing and analysis, big data processing using AI and anything to do with using data to inform people management decisions.
-- 🌱 I’m currently learning Markup, Linux server administration (Ubuntu 20.04) and using Markdown with Plandoc.
+- 👋 Hi, I’m @davidjackson-uk, a PhD student based at *Manchester Metropolitan University* in the UK.
+- 👀 I’m interested in **coding for academic writing and analysis**, big data processing using AI and anything to do with using data to inform people management decisions.
+- 🌱 I’m currently learning Markup, Linux server administration (Ubuntu 20.04) and using Markdown with Plandoc. I'm also fiddling about with MS Visual Code and various other bits and pieces.
 - 📫 You can reach me at david.jackson6@stu.mmu.ac.uk
 
 <!---
