@@ -8,3 +8,14 @@ You can click the Preview link to take a look at your changes.
 --->
 # Free Software
 I am a supporting member of the Free Software Foundation and so prioritise free software and its principle whenever I can. 
+
+I do use proprietary software where my clients require it. 
+
+# Cell phone technology
+I am a user and support of Graphene OS (running on Google Pixel 6 hardware)
+
+# Desktop computing
+Is on GNU/Linux Mint
+
+# Laptop computing
+Is on GNU/Fedroa
