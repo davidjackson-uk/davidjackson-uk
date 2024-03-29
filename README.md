@@ -19,3 +19,6 @@ Is on GNU/Linux Mint.
 
 # Laptop computing
 Is on GNU/Fedroa. Thinkpad. Of course. :-)
+
+*“The enjoyment of one’s tools is an essential ingredient of successful work.”* - Donald E. Knuth
+
