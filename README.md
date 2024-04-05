@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidjackson-uk, a PhD student based at *Manchester Metropolitan University* in the UK.
+- 👋 Hi, I’m @davidjackson-uk, a management consultant and researcher based in the UK.
 - 👀 I’m interested in **coding for academic writing and analysis**, big data processing using AI and anything to do with using data to inform people management decisions.
 - 🌱 I’m currently learning Pyhton, Linux server administration (Ubuntu 20.04) and using Markdown with Plandoc. I'm also fiddling about with Emacs, BASH scripting and various other bits and pieces.
 
