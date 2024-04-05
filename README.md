@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 # Free Software
 I am a supporting member of the [Free Software Foundation](https://www.fsf.org/) and so prioritise free software and its principles whenever I can. 
 
-I do use proprietary software where my clients require it. 😧 
+I do use proprietary software where my clients require it, and run non-free drivers where not doing so would mean throwing out perfectly good hardware. 😧 
 
 📱 **Cell phone technology**
 I am a user and supporter of [Graphene OS](https://grapheneos.org/) (running on Google Pixel 6 hardware).
