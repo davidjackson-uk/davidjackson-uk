@@ -1,7 +1,7 @@
 # Hello World!
 - 👋 Hi, I’m @davidjackson-uk, a management consultant and researcher based in the UK.
-- 👀 I’m interested in **coding for academic writing and analysis**, big data processing using AI and anything to do with using data to inform people management decisions.
-- 🌱 I’m currently learning Python, Linux server administration (Ubuntu 20.04) and using Markdown with Plandoc. I'm also fiddling about with Emacs, BASH scripting and various other bits and pieces.
+- 👀 I’m interested in **coding for academic writing and analysis**, **coding for qualitative data analysis and organisation** and anything to do with manipulating and reporting complex data to inform people's management decisions.
+- 🌱 I’m currently learning Python, Linux server administration and using Markdown with Plandoc. I'm also spending a lot of time in vanilla Emacs, BASH scripting and various other bits and pieces.
 
 <!---
 davidjackson-uk/davidjackson-uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
