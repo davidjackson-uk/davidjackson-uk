@@ -21,8 +21,10 @@ You can learn more [here](https://www.fsf.org/about/what-is-free-software).
 
 📱 **Cell phone technology**
 I am a user and supporter of [Graphene OS](https://grapheneos.org/) as an alternative to Apple iOS or Google Android.
+
 💻 **Laptop computing**
 Is on [GNU/Linux Trisquel](https://trisquel.info/).
+
 🖥️ **Desktop computing**
 Is on [GNU/Linux Mint](https://linuxmint.com/).
 
