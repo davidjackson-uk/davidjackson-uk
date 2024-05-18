@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 > **“The enjoyment of one’s tools is an essential ingredient of successful work.”** - *Donald E. Knuth*
 
 
-> **"“We approached the case, you remember, with an absolutely blank mind, which is always an advantage. We had formed no theories. We were simply there to observe and to draw inferences from our observations...It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”** - *Sherlock Holmes* 
+> **“We approached the case, you remember, with an absolutely blank mind, which is always an advantage. We had formed no theories. We were simply there to observe and to draw inferences from our observations...It is a capital mistake to theorise before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”** - *Sherlock Holmes* 
 
 I am a supporting member of the [Free Software Foundation](https://www.fsf.org/). 
 
