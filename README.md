@@ -20,13 +20,12 @@ Free software has become the foundation of a learning society where we share our
 You can learn more [here](https://www.fsf.org/about/what-is-free-software).
 
 📱 **Cell phone technology**
-I am a user and supporter of [Graphene OS](https://grapheneos.org/) (running on Google Pixel 6 hardware).
-
-🖥️ **Desktop computing**
-Is on GNU/Linux Mint.
-
+I am a user and supporter of [Graphene OS](https://grapheneos.org/) as an alternative to Apple iOS or Google Android.
 💻 **Laptop computing**
-Is on GNU/Linux Trisquel.
+Is on [GNU/Linux Trisquel](https://trisquel.info/).
+🖥️ **Desktop computing**
+Is on [GNU/Linux Mint](https://linuxmint.com/).
+
 
 
 
