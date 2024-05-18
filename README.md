@@ -8,7 +8,7 @@
 davidjackson-uk/davidjackson-uk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-*“The enjoyment of one’s tools is an essential ingredient of successful work.”* - Donald E. Knuth
+> **“The enjoyment of one’s tools is an essential ingredient of successful work.”** - *Donald E. Knuth*
 
 I am a supporting member of the [Free Software Foundation](https://www.fsf.org/). 
 
